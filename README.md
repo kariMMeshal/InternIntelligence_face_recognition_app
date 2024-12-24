@@ -1,16 +1,22 @@
-# face_recognition_app
+# Face Recognition App with Google ML Kit
 
-A new Flutter project.
+This is a simple Face Recognition app built using Flutter and the `google_mlkit_face_detection` package. The app detects faces in real-time using the device camera or from an image selected from the gallery.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- Real-time face detection using the device camera.
+- Supports face detection on images selected from the gallery.
+- Displays bounding boxes around detected faces.
 
-A few resources to get you started if this is your first Flutter project:
+## Requirements
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Flutter 3.x or higher
+- Android/iOS device with camera support
+- Google ML Kit Face Detection package
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Contact
+
+For any questions or inquiries, feel free to reach out:
+
+**Kareem Hamdy Meshal**  
+**Email**: kareemkhdh543@gmail.com
